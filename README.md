@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, UI Design , and Cloud Computing<br>📫 How to reach me maheswaracleon@gmail.com / cleon.maheswara@binus.ac.id<br>👨‍💻 All of my projects are available at ...<br>📄 Know about my experiences ...<br>⚡ Fun fact I love Seafood and Movies
+🌱 I’m currently learning Java, UI Design & UX, and Cloud Computing<br>📫 How to reach me maheswaracleon@gmail.com / cleon.maheswara@binus.ac.id<br>👨‍💻 All of my projects are available at ...<br>📄 Know about my experiences ...<br>⚡ Fun fact I love Seafood and Movies
 
 
 ## 🌐 Socials:
